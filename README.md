@@ -12,7 +12,7 @@ One dad joke, told out loud: the fog that mists the moment. A father tells his k
 python3 main.py
 ```
 
-Writes the joke to `entry.txt` in `$MAKEFUN_OUTPUT_DIR` (default `/output/entry.txt`): exactly 92 characters, UTF-8, no trailing newline. Standard library only, deterministic — the same bytes on every run.
+Writes the joke to `entry.txt` in `$MAKEFUN_OUTPUT_DIR` (default `/output/entry.txt`): exactly 88 characters, UTF-8, no trailing newline. Standard library only, deterministic — the same bytes on every run.
 
 ---
 
